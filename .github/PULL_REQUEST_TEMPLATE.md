@@ -1,5 +1,3 @@
-# Test Template One
-
 ## Prerequisites
 - [ ] I have verified that there are no existing pull requests that would overlap with this pull request.
 - [ ] I have verified that I am following the guidelines as outlined in this project's contribution policy
